@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release."
+title: "A Reproducible Mathematical Construction of a 1 fs Period Offset from a 240.1 Hz Reference Frequency"
+type: software
+authors:
+  - name: "Topbrutus"
+version: 1.0.0
+date-released: 2026-09-25
+license: MIT
+repository-code: "https://github.com/Topbrutus/brutus-2401-femtosecond-offset"
+url: "https://github.com/Topbrutus/brutus-2401-femtosecond-offset"
+abstract: >-
+  Minimal reproducible software and documentation for the exact relation
+  1/240.1 - 1/f = 10^-15 s, with an explicit boundary between
+  mathematical consequence and unverified physical interpretation.
+keywords:
+  - frequency
+  - period offset
+  - femtosecond
+  - reproducibility
+  - decimal arithmetic

@@ -1,0 +1,19 @@
+{
+  "title": "A Reproducible Mathematical Construction of a 1 fs Period Offset from a 240.1 Hz Reference Frequency",
+  "description": "Minimal reproducible software and documentation for the exact relation 1/240.1 - 1/f = 10^-15 s. The resulting candidate frequency is a mathematical consequence of the stated period-offset hypothesis; no physical interpretation is claimed without experiment.",
+  "creators": [
+    {"name": "Topbrutus"}
+  ],
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "frequency",
+    "period offset",
+    "femtosecond",
+    "reproducible calculation",
+    "high precision arithmetic"
+  ]
+}
