@@ -1,10 +1,10 @@
 {
   "title": "A Reproducible Mathematical Construction of a 1 fs Period Offset from a 240.1 Hz Reference Frequency",
-  "description": "Minimal reproducible software and documentation for the exact relation 1/240.1 - 1/f = 10^-15 s. The resulting candidate frequency is a mathematical consequence of the stated period-offset hypothesis; no physical interpretation is claimed without experiment.",
+  "description": "Version 2.0.0 extends the original reproducible construction by explicitly propagating the high-precision residual. From 1/240.1 - 1/f = 10^-15 s, the candidate f = 240.100000000057648... has residual delta_f = 5.764801000001384...e-11 Hz. Under the dimensionless scale N = 2401, the same residual propagates to N*delta_f = 1.3841287201003323...e-7 and N*f = 576480.100000138412.... This is an algebraic bookkeeping result only; no physical identification with the Brout-Englert-Higgs boson or any new constant is claimed without an independent physical model and experiment.",
   "creators": [
     {"name": "Topbrutus"}
   ],
-  "version": "1.0.0",
+  "version": "2.0.0",
   "access_right": "open",
   "license": "mit",
   "upload_type": "software",
@@ -13,7 +13,8 @@
     "frequency",
     "period offset",
     "femtosecond",
-    "reproducible calculation",
-    "high precision arithmetic"
+    "residual propagation",
+    "high precision arithmetic",
+    "reproducible calculation"
   ]
 }
