@@ -4,18 +4,20 @@ title: "A Reproducible Mathematical Construction of a 1 fs Period Offset from a 
 type: software
 authors:
   - name: "Topbrutus"
-version: 1.0.0
+version: 2.0.0
 date-released: 2026-09-25
 license: MIT
 repository-code: "https://github.com/Topbrutus/brutus-2401-femtosecond-offset"
 url: "https://github.com/Topbrutus/brutus-2401-femtosecond-offset"
 abstract: >-
-  Minimal reproducible software and documentation for the exact relation
-  1/240.1 - 1/f = 10^-15 s, with an explicit boundary between
-  mathematical consequence and unverified physical interpretation.
+  Reproducible software and documentation for the exact relation
+  1/240.1 - 1/f = 10^-15 s. Version 2 explicitly propagates the
+  high-precision residual through a dimensionless scale factor of 2401,
+  while keeping physical interpretation separate from the algebra.
 keywords:
   - frequency
   - period offset
   - femtosecond
+  - residual propagation
   - reproducibility
   - decimal arithmetic
