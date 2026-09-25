@@ -1,1 +1,16 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <rect width="1200" height="650" fill="#000"/>
+  <g fill="#fff" font-family="Georgia, Times New Roman, serif" text-anchor="middle">
+    <text x="600" y="90" font-size="40">1/240.1 - 1/f = 10^-15 s</text>
+    <text x="600" y="175" font-size="36">f = 1 / (1/240.1 - 10^-15)</text>
+    <rect x="155" y="215" width="890" height="82" fill="none" stroke="#fff" stroke-width="2"/>
+    <text x="600" y="270" font-size="34">f â‰ˆ 240.1000000000576480100000138412872 Hz</text>
+    <text x="600" y="365" font-size="32">Î”f â‰ˆ 5.764801000001384 Ã— 10^-11 Hz</text>
+  </g>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="25">
+    <text x="85" y="455">SOURCE: mathematical construction</text>
+    <text x="85" y="500">HYPOTHESIS: period offset fixed at 1 fs</text>
+    <text x="85" y="545">CALCULATION: reproducible</text>
+    <text x="85" y="590">PHYSICAL INTERPRETATION: requires experimental evidence</text>
+  </g>
+</svg>
